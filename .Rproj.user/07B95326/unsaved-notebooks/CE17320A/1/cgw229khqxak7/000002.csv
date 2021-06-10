@@ -1,7 +1,0 @@
-"2","ModuleNotFoundError: No module named 'pandas'
-
-Detailed traceback:
-  File ""<string>"", line 1, in <module>
-  File ""/Library/Frameworks/R.framework/Versions/4.0/Resources/library/reticulate/python/rpytools/loader.py"", line 44, in _import_hook
-    level=level
-"
